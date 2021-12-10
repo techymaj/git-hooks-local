@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo Thanks for your contribution $GIT_AUTHOR_NAME
+echo "Thanks for your contribution $GIT_AUTHOR_NAME"
 
